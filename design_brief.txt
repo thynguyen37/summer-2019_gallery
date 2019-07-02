@@ -1,0 +1,29 @@
+This design brief covers 3 single page gallery sites.  One will be about Food Hobby, second is My Cuki, and third is My VietNam Trip.  Each will be having Header, Main, and Footer and pages will be displayed similarly.  Header will have light blue background, center text and small round corner radius logo.
+Body will have alice blue background, h1 will have center text, and left alignment with paragraph(s).  Eight images will align with one another, with 25% border radius, minimal in size.  Footer will also have light blue background to compliment with header and consist of copyright logo and name of author.
+
+I visited a couple of sites: First one is https://www.fortherecord.simonfosterdesign.com.  I like the site very much and somewhat similar to mine and I did not view the site before working on mine since I wanted to self-brainstorm and use with what I've learned from class.
+Second site: https://panarama.fr, is great.  I really liked the design layout and colorful pictures.  I can definitely take away some ideas and creativity from it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.fortherecord.simonfosterdesign.com
+https://panarama.fr
